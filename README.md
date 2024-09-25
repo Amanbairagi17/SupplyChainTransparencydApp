@@ -1,4 +1,6 @@
 ##### Deployed smartcontract address: CA7IUIP7QVYJMK7S4ZDJ54KZAXIRFHFHXACZ7EEIJUSF7HKFODUKDG2W
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/1880c925-d3a1-4466-81de-759b44bbf56d">
+
 
 # Supply Chain Transparency dApp
 
